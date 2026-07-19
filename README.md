@@ -1,2 +1,2 @@
 # python-learning-2026-07-18
-学习python函数
+巩固之前学过的python函数
